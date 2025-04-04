@@ -14,13 +14,13 @@ html{
 }
 
 #myCanvas {
-  border: 1px solid black;
+  border: 5px solid brown;
 }
 
 .container{
   display: flex;
   flex-wrap: wrap;
-  background-color: white;
+  background-color: LightPink;
   justify-content: space-around;
   align-items: flex-start;
   padding-bottom: 20px;
